@@ -1,1 +1,12 @@
 It is a code that uses the Google Translate API to ensure the best translation results, and I also added the speaking voice feature through the gtts library. The translation of the code was through the googletrans library, and this and that the GUI was designed by the Pyqt5 library.
+
+you need to some tools or Accessories
+- python programing language
+- pyqt5 library in Python
+- pyqt5-tools library in Python
+- pyttsx3 library in Python
+- gtts library in Python
+- playsound2 library in Python
+- sys library in Python
+- os library in Python
+- googletrans library in Python
